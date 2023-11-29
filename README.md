@@ -80,7 +80,7 @@ These technologies and tools have played a crucial role in shaping Socio into a 
 ## About Us
 
 Socio is developed and maintained by a passionate team of developers who aim to create a powerful projects.
-Developed by: - [Omar Mohamed](https://github.com/MrGhost23/) & [Omar Adel](https://github.com/0xOmarAdel)
+Developed by: - [Yuri](https://github.com/BMbruce/)
 
 
 ## License
